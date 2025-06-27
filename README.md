@@ -79,11 +79,6 @@ pnpm run dev
 ```bash
 pnpm run build
 ```
-
-## Contributing
-
-Since this is a temporary fork, please consider contributing to the [original extension](https://github.com/raycast/extensions/tree/main/extensions/uploadthing) instead. Once official Windows support is available, this fork will be deprecated.
-
 ## Credits
 
 - **Original Extension**: [UploadThing team](https://github.com/pingdotgg) and [Raycast Extensions](https://github.com/raycast/extensions)
