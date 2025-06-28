@@ -33,7 +33,7 @@ if (!globalThis.crypto) {
 ## Prerequisites
 
 - [Raycast](https://raycast.com/) installed on your system
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js](https://nodejs.org/) (v20 or higher)
 - [PNPM](https://pnpm.io/) package manager
 - An [UploadThing](https://uploadthing.com/) account and API token
 
@@ -41,8 +41,8 @@ if (!globalThis.crypto) {
 
 ### 1. Clone this Repository
 ```bash
-git clone <your-fork-url>
-cd uploadthing-ext
+git clone https://github.com/adityavardhansharma/raycast-uploadthing-windows.git
+cd raycast-uploadthing-windows
 ```
 
 ### 2. Install Dependencies
